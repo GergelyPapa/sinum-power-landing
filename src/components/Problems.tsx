@@ -72,7 +72,7 @@ export function Problems() {
                 De hogy tudod, mennyit fizetsz túl?
               </h3>
               <p className="text-gray-700 leading-relaxed">
-                A legtöbb iparvállalatnak nincs pontosságú képe az energiavesztesége méreteről. Az eddigi "szokásos" költségeket fizetik, anélkül, hogy tudnák: léteznek megoldások. Ez a pótlólagos költség általában lényegesen csökkenthető.
+                A legtöbb iparvállalatnak nincs pontosságú képe az energiavesztesége méreteről. Az eddigi &quot;szokásos&quot; költségeket fizetik, anélkül, hogy tudnák: léteznek megoldások. Ez a pótlólagos költség általában lényegesen csökkenthető.
               </p>
             </div>
           </div>
