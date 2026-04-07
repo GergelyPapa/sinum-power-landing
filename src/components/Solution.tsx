@@ -78,7 +78,7 @@ export function Solution() {
                 </div>
                 <div>
                   <div className="text-2xl font-bold text-steel-blue-900">ROI</div>
-                  <p className="text-xs text-gray-600 mt-1">< 2 év</p>
+                  <p className="text-xs text-gray-600 mt-1">&lt; 2 év</p>
                 </div>
               </div>
             </div>
